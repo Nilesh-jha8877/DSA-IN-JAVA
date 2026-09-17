@@ -12,10 +12,12 @@
 | [0088-merge-sorted-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |

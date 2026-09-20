@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,4 +70,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0424-longest-repeating-character-replacement) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

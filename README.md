@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sliding Window
@@ -66,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

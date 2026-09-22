@@ -53,6 +53,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0441-arranging-coins](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sliding Window
@@ -71,6 +72,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0441-arranging-coins) |
 ## String
 |  |
 | ------- |

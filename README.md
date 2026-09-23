@@ -18,6 +18,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0904-fruit-into-baskets) |
+| [1539-kth-missing-positive-number](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0441-arranging-coins](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/1539-kth-missing-positive-number) |
 ## Sliding Window
 |  |
 | ------- |

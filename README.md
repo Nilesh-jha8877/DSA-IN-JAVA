@@ -18,6 +18,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1539-kth-missing-positive-number](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -99,8 +100,13 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0867-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Nilesh-jha8877/DSA-IN-JAVA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
